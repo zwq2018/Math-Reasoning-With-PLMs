@@ -1,5 +1,5 @@
 # Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem.
-This repo contains the code and = for our EMNLP 2022 findings paper:
+This repo contains the code and data for our EMNLP 2022 findings paper:
 
 
 
@@ -31,7 +31,7 @@ This repo contains the code and = for our EMNLP 2022 findings paper:
   python process_math23k.py
   ```
 ## Citation
-If you find this work useful, please cite our paper:
+If you find this work useful, please cite our paper
 
 
   
