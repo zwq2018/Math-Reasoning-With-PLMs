@@ -35,6 +35,24 @@ This repo contains the code and data for our EMNLP 2022 findings paper
 ## Citation
 If you find this work useful, please cite our paper
 
+@inproceedings{zhang-etal-2022-multi-view,
+    title = "Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem",
+    author = "Zhang, Wenqi  and
+      Shen, Yongliang  and
+      Ma, Yanna  and
+      Cheng, Xiaoxia  and
+      Tan, Zeqi  and
+      Nong, Qingpeng  and
+      Lu, Weiming",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.79",
+    pages = "1103--1116"
+}
+
 
   
 
