@@ -32,6 +32,16 @@ This repo contains the code and data for our EMNLP 2022 findings paper
   cd preprocess
   python process_math23k.py
   ```
+  
+- The training code for the two datasets, MathQA and Math23k, differs slightly. Firstly, they utilize different pretrained models, with MathQA employing "roberta-base" instead of "roberta-chinese" for the English dataset. Secondly, MathQA has a different set of constants, including more constants such as '100.0', '1.0', '2.0', '3.0', '4.0', '10.0', '1000.0', '60.0', '0.5', '3600.0', '12.0', '0.2778', '3.1416', '3.6', '0.25', '5.0', '6.0', '360.0', '52.0', and '180.0'. Lastly, MathQA has two more operators compared to Math23k, with the additional operators being '^' and '^_rev'.
+
+
+```
+constants = ['100.0', '1.0', '2.0', '3.0', '4.0', '10.0', '1000.0', '60.0', '0.5', '3600.0', '12.0', '0.2778','3.1416', '3.6', '0.25', '5.0', '6.0', '360.0', '52.0', '180.0']
+uni_labels = ['+', '-', '-_rev', '*', '/', '/_rev','^', '^_rev']
+```
+
+
 ## Citation
 If you find this work useful, please cite our paper
 
