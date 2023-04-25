@@ -36,7 +36,7 @@ This repo contains the code and data for our EMNLP 2022 findings paper
 If you find this work useful, please cite our paper
 
 
-
+```bibtex
 @inproceedings{zhang-etal-2022-multi-view,
     title = "Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem",
     author = "Zhang, Wenqi  and
@@ -55,6 +55,6 @@ If you find this work useful, please cite our paper
     pages = "1103--1116"
 }
 
-
+'''
   
 
