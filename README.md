@@ -5,18 +5,18 @@ This repo contains the code and data for our EMNLP 2022 findings paper  [![arXiv
 
 
 
-## Requirements
+##🌿🌿 Requirements
 * transformers `pip3 install transformers`
 * Pytorch > 1.7.1
 
-## Description
+##🌿🌿 Description
 
 - We provide the code for multilingual datasets ( math23k and mathQA )
 - We also provide preprocessing code to process the equation by pre-order and post-order traversal
 - We adopt Roberta-base and Chinese-BERT from HuggingFace for multilingual datasets. So it needs to be connected to the internet or copy the HuggingFace parameters from somewhere else and load them directly
 - Part of bottom-up view code is based on Deductive-MWP (https://github.com/allanj/Deductive-MWP.git)
 
-## Usage
+##🌿🌿 Usage
 
 - To reproduce our results, you can either directly use the dataset we provided, where we have processed the equation using pre-order and post-order traversal, or directly process the original dataset using our code
 
@@ -41,12 +41,8 @@ constants = ['100.0', '1.0', '2.0', '3.0', '4.0', '10.0', '1000.0', '60.0', '0.5
 uni_labels = ['+', '-', '-_rev', '*', '/', '/_rev','^', '^_rev']
 ```
 
-## Details
+##🌿🌿 Details
 
-
-
-## Citation
-If you find this work useful, please cite our paper
 From top-down view:
 > <img width="1234" alt="Xnip2023-08-26_18-27-18" src="https://github.com/zwq2018/Multi-view-Consistency-for-MWP/assets/44236100/bfab04d6-be3c-475e-ad21-261909e35abc">
 
@@ -54,6 +50,8 @@ From bottwom-view:
 > <img width="1509" alt="Xnip2023-08-26_18-27-38" src="https://github.com/zwq2018/Multi-view-Consistency-for-MWP/assets/44236100/6d17d2ff-8c7b-4e9c-83f6-2e1fef065fe2">
 
 
+##🌿🌿 Citation
+If you find this work useful, please cite our paper
 ```bibtex
 @inproceedings{zhang-etal-2022-multi-view,
     title = "Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem",
