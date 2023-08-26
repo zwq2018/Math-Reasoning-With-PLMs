@@ -1,7 +1,7 @@
 # Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem.
 This repo contains the code and data for our EMNLP 2022 findings paper  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11694)
 
-<img width="456" alt="image" src="https://user-images.githubusercontent.com/44236100/196947138-b54a139b-69bd-43c7-8cea-da1e61ddc829.png">
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/44236100/196947138-b54a139b-69bd-43c7-8cea-da1e61ddc829.png">
 
 
 
@@ -44,10 +44,10 @@ uni_labels = ['+', '-', '-_rev', '*', '/', '/_rev','^', '^_rev']
 ##🌿🌿 Details
 
 From top-down view:
-> <img width="1234" alt="Xnip2023-08-26_18-27-18" src="https://github.com/zwq2018/Multi-view-Consistency-for-MWP/assets/44236100/bfab04d6-be3c-475e-ad21-261909e35abc">
+> <img width="800" alt="Xnip2023-08-26_18-27-18" src="https://github.com/zwq2018/Multi-view-Consistency-for-MWP/assets/44236100/bfab04d6-be3c-475e-ad21-261909e35abc">
 
 From bottwom-view:
-> <img width="1509" alt="Xnip2023-08-26_18-27-38" src="https://github.com/zwq2018/Multi-view-Consistency-for-MWP/assets/44236100/6d17d2ff-8c7b-4e9c-83f6-2e1fef065fe2">
+> <img width="800" alt="Xnip2023-08-26_18-27-38" src="https://github.com/zwq2018/Multi-view-Consistency-for-MWP/assets/44236100/6d17d2ff-8c7b-4e9c-83f6-2e1fef065fe2">
 
 
 ##🌿🌿 Citation
