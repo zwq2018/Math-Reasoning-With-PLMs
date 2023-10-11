@@ -70,6 +70,5 @@ If you find this work useful, please cite our paper
     url = "https://aclanthology.org/2022.findings-emnlp.79",
     pages = "1103--1116"
 }
-```
   
 
