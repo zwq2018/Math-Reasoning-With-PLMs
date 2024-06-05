@@ -62,11 +62,15 @@ If you find this work useful, please cite our paper
       Tan, Zeqi  and
       Nong, Qingpeng  and
       Lu, Weiming",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
     month = dec,
     year = "2022",
     address = "Abu Dhabi, United Arab Emirates",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.findings-emnlp.79",
-    pages = "1103--1116"
+    doi = "10.18653/v1/2022.findings-emnlp.79",
+    pages = "1103--1116",
 }
