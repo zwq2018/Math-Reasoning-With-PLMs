@@ -71,6 +71,5 @@ If you find this work useful, please cite our paper
     address = "Abu Dhabi, United Arab Emirates",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.findings-emnlp.79",
-    doi = "10.18653/v1/2022.findings-emnlp.79",
-    pages = "1103--1116",
+    doi = "10.18653/v1/2022.findings-emnlp.79"
 }
