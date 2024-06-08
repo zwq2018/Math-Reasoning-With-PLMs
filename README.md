@@ -62,9 +62,6 @@ If you find this work useful, please cite our paper
       Tan, Zeqi  and
       Nong, Qingpeng  and
       Lu, Weiming",
-    editor = "Goldberg, Yoav  and
-      Kozareva, Zornitsa  and
-      Zhang, Yue",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
     month = dec,
     year = "2022",
