@@ -81,6 +81,7 @@ If you find this work useful, please cite our paper
 }
 
 ```
+```
 @inproceedings{zhang-etal-2023-expression,
     title = "An Expression Tree Decoding Strategy for Mathematical Equation Generation",
     author = "Zhang, Wenqi  and
