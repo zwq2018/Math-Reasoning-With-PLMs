@@ -8,7 +8,7 @@ This repo contains the code and data for our three papers about math reasoning:
 [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.09619)
   
 - **IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)**: Specialized Mathematical Solving by a Step-By-Step Expression Chain Generation    
-[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10552332)
+[![Taslp](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10552332)
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/44236100/196947138-b54a139b-69bd-43c7-8cea-da1e61ddc829.png">
 
