@@ -102,3 +102,16 @@ If you find this work useful, please cite our paper
     doi = "10.18653/v1/2023.emnlp-main.29",
 }
 ```
+
+```
+@ARTICLE{10552332,
+  author={Zhang, Wenqi and Shen, Yongliang and Hou, Guiyang and Wang, Kuangyi and Lu, Weiming},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Specialized Mathematical Solving by a Step-By-Step Expression Chain Generation}, 
+  year={2024},
+  volume={32},
+  number={},
+  pages={3128-3140},
+  keywords={Cognition;Mathematical models;Decoding;Task analysis;Annotations;Collaboration;Labeling;Math word problem;math reasoning;expression generation;collaboration;step-by-step},
+  doi={10.1109/TASLP.2024.3410028}}
+```
