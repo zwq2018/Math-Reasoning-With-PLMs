@@ -1,5 +1,7 @@
 # Multi-View Reasoning: Consistent Contrastive Learning for Math Reasoning
-This repo contains the code and data for our EMNLP 2022 findings paper  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11694)
+This repo contains the code and data for our EMNLP 2022 findings paper: Multi-View Reasoning: Consistent Contrastive Learning for Math Reasoning  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11694)
+ and our EMNLP2023 main paper: An Expression Tree Decoding Strategy for Mathematical Equation Generation
+ [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.09619) 
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/44236100/196947138-b54a139b-69bd-43c7-8cea-da1e61ddc829.png">
 
@@ -70,3 +72,25 @@ If you find this work useful, please cite our paper
     url = "https://aclanthology.org/2022.findings-emnlp.79",
     doi = "10.18653/v1/2022.findings-emnlp.79"
 }
+
+```
+@inproceedings{zhang-etal-2023-expression,
+    title = "An Expression Tree Decoding Strategy for Mathematical Equation Generation",
+    author = "Zhang, Wenqi  and
+      Shen, Yongliang  and
+      Nong, Qingpeng  and
+      Tan, Zeqi  and
+      Ma, Yanna  and
+      Lu, Weiming",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.29",
+    doi = "10.18653/v1/2023.emnlp-main.29",
+}
+```
