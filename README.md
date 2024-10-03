@@ -1,12 +1,14 @@
 # Multi-View Reasoning: Consistent Contrastive Learning for Math Reasoning
 This repo contains the code and data for our three papers about math reasoning:
 
-- EMNLP 2022 findings paper:
-- Multi-View Reasoning: Consistent Contrastive Learning for Math Reasoning  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11694)
+- **EMNLP 2022 findings**: Multi-View Reasoning: Consistent Contrastive Learning for Math Reasoning    
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11694)
   
-- EMNLP2023 main paper: An Expression Tree Decoding Strategy for Mathematical Equation Generation [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.09619)
+- **EMNLP2023 main**: An Expression Tree Decoding Strategy for Mathematical Equation Generation    
+[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2310.09619)
   
-- IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP): Specialized Mathematical Solving by a Step-By-Step Expression Chain Generation [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10552332)
+- **IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)**: Specialized Mathematical Solving by a Step-By-Step Expression Chain Generation    
+[![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10552332)
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/44236100/196947138-b54a139b-69bd-43c7-8cea-da1e61ddc829.png">
 
